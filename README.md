@@ -8,12 +8,14 @@
 
    2020_Stock_data.jpg
 
-2. VBA script file (.bas & .vba) that loops thorough all the worksheets
+2. VBA script file (.bas & .vba & vbs) that loops thorough all the worksheets. - note all the files are  same script, just in differnt extensions 
 
    Module 2 Challenge_VBA Script.bas
 
    Module 2 Challenge_VBA Script.vba
-  
-3. Multiple_year_stock_data.xlsm
 
-4. https://github.com/MaliniSintre/VBA-challenge/tree/main
+   Module 2 Challenge_VBA Script.vbs
+  
+4. Multiple_year_stock_data.xlsm
+
+5. https://github.com/MaliniSintre/VBA-challenge/tree/main
